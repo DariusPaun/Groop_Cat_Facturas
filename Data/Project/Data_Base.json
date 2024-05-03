@@ -1,0 +1,41 @@
+{
+    "set1": {
+        "ALCALA DE HENARES": 2806,
+        "SABADELL": 2810,
+        "TAMBRE": 2814,
+        "CAMARMA DE ESTERUELAS": 2825,
+        "CENTRO MICHEL 45200 ILLESCAS": 2834,
+        "ALICANTE": 2846,
+        "ALBOLOTE": 2852,
+        "LLANERA": 2854,
+        "CENTRO CONTIN 45200 ILLESCAS": 2859,
+        "LA VEREDILL 45200 ILLESCAS": 2859,
+        "GOIURIA": 2870,
+        "VALLADOLID": 2857,
+        
+        "PLAT. CENTRAL IBERUM (CENTRO MICHEL" :2834,
+        "PLAT. CENTRAL IBERUM (CENTRO CONTIN" :2859,
+        "LA VEREDILL" :2859
+
+    },
+    "set2": {
+        "H2X386G05282": 2851,
+        "H2X387F01811": 2806,
+        "H2X386H03632": 2806,
+        "H2X386H06080": 2806,
+        "H2X386V01887": 2806,
+        "H2X386F08355": 2814,
+        "H2X115A02862": 2854,
+        "H2X386G07994": 2806,
+        "W41170G00328": 2821,
+        "P21120G02056": "?",
+        "P21120G03101": "?",
+        "P21120G02087": "?",
+        "P21120G02116": "?",
+        "H2X386Y12076": "?",
+        "H2X386Y12158": "?",
+        "H21252L01135": "?",
+        "W4X131B04001": "?"
+
+    }
+}

@@ -26,6 +26,10 @@ The project relies on several Python libraries, including but not limited to:
 2. Install the required dependencies using pip:
 3. Run the Python scripts/modules to perform data manipulation tasks.
 
+## Usage example
+
+
+![Usage example](Data/UI.png)
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
