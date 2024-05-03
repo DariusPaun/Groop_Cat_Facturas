@@ -1,4 +1,4 @@
-# Groupe Cat Python Data Manipulation Project
+# Groupe Cat Python Data Manipulation
 
 This is a Python project developed for data manipulation purposes, used by Groupe Cat, a company based in Spain.
 
