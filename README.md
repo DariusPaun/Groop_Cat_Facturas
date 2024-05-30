@@ -1,6 +1,6 @@
 # Groupe Cat Python Data Manipulation
 
-This is a Python project developed for data manipulation purposes, used by Groupe Cat, a company based in Spain.
+This is a Python project developed for data extraction and preprocessing, used by Groupe Cat, a company based in Spain.
 
 ## Project Overview
 The project involves processing invoices and extracting relevant information, particularly related to users identified by their ID (chassis) and services.
